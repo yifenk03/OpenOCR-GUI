@@ -6,3 +6,13 @@ pyclipper
 pyyaml
 rapidfuzz
 tqdm
+## Python 图形界面框架
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
+## 文档处理
+PyMuPDF>=1.18.0
+## Markdown 渲染
+markdown>=3.3.0
+## GPU 监控（可选）
+# 实时 GPU 监控功能
+GPUtil>=1.4.0
