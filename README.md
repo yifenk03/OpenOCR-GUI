@@ -9,6 +9,8 @@ https://github.com/Topdu/OpenOCR 的分支，OpenOCR 文档识别转换工具的
 
 模型下载：https://www.modelscope.cn/models/topdktu/unirec-0.1b/files
 
+更新一个MD文件合并工具，万一没有勾选合并，可以使用这个md_merge_tool.py。
+
 ## 功能特点
 
 - **多格式支持**：处理 PDF 文件和图片（PNG、JPG、JPEG）
